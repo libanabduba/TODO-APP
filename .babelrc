@@ -1,0 +1,6 @@
+{
+  "presets": [
+    // Other presets...
+    "@babel/preset-typescript"
+  ]
+}
